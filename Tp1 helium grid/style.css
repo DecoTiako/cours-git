@@ -28,14 +28,16 @@ p {
 
 body {
     min-height: 100vh;
-    background: #yellow;
+
+    background: salmon;
+
     color: var(--textcolor);
 }
 
 nav {
     display: grid;
     grid-template-columns: 50% 50%;
-    margin: 15px 30px;
+    margin: 20px 30px;
 }
 
 nav ul {
