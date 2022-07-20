@@ -28,7 +28,7 @@ p {
 
 body {
     min-height: 100vh;
-    background: var(--headerbgcolor);
+    background: #0527e6;
     color: var(--textcolor);
 }
 
