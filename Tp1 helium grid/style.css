@@ -28,7 +28,9 @@ p {
 
 body {
     min-height: 100vh;
+
     background: salmon;
+
     color: var(--textcolor);
 }
 
